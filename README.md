@@ -6,3 +6,7 @@ Personal MacOs package repository, using homebrew. 🍺
 brew tap pandorym/repo
 brew install *
 ```
+
+# List
+* AppiumDoc.transl v0.0.0
+* LrccExpt v1.0.0
