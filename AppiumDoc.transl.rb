@@ -6,8 +6,8 @@ require "language/node"
 class AppiumdocTransl < Formula
   desc "A command-line tool to help translate Appium documents. 📖"
   homepage "https://github.com/Pandorym/AppiumDoc.transl"
-  url "https://github.com/Pandorym/AppiumDoc.transl/releases/download/v0.0.0/AppiumDoc.transl_v0.0.0_with_dist.tar.xz"
-  sha256 "caf3177d93e7fd451f32bac273c27bdf84e4fbc7890491b401d9d37b19d1c0f8"
+  url "https://github.com/Pandorym/AppiumDoc.transl/releases/download/v0.1.0/AppiumDoc.transl-0.1.0_with_dist.tar.xz"
+  sha256 "7ffd336be567816831112fcc9cab23638662dc29e79b69172a25b005d7daf2a2"
   
   depends_on "node"
   

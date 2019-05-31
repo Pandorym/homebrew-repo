@@ -8,5 +8,5 @@ brew install *
 ```
 
 # List
-* AppiumDoc.transl v0.0.0
+* AppiumDoc.transl v0.1.0
 * LrccExpt v1.0.0
